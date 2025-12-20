@@ -1,6 +1,20 @@
-<h1 align="center">Hi There 👋, I'm Sherif Alaa</h1>
+<h1 align="center">Hi 👋, I'm Sherif Alaa</h1>
 
-###
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;Full+Stack+Developer;Frontend+Developer" 
+    alt="Typing SVG" 
+  />
+</p>
+<br>
+<p align="center">
+  <a href="https://github.com/Sh6rif">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com/?lines=Follow+to+get+New+Updates;Check+my+Popular+Repositories&font=Fira+Code&center=true&color=30F050&pause=2000" 
+      alt="Follow Typing SVG"
+    />
+  </a>
+</p>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
@@ -8,15 +22,9 @@
 
 ###
 
-<p align="left">
-  <strong>Sherif Alaa</strong><br>
-  Computer Science Graduate | Backend Developer
-</p>
-
-<p align="left">
-  🌱 Currently learning <strong>NestJS</strong><br>
-  👨‍💻 Projects: <a href="https://github.com/Sh6rif">github.com/Sh6rif</a><br>
-  📫 Email: <a href="mailto:Sheriff20398@fci.bu.edu.eg">Sheriff20398@fci.bu.edu.eg</a>
+<p align="center">
+  Computer Science Graduate • Backend-focused Full Stack Developer <br>
+  🌱 Currently learning <strong>NestJS</strong>
 </p>
 
 ###
@@ -108,3 +116,5 @@
 </picture>
 
 ###
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
