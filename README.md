@@ -22,6 +22,14 @@
 
 ###
 
+<h2 align="center">📄 My Resume</h2>
+
+<p align="center">
+  <a href="./Sherif-Alaa-CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+</p>
+
 <p align="center">
   Computer Science Graduate • Backend-focused Full Stack Developer <br>
   🌱 Currently learning <strong>NestJS</strong>
